@@ -1,8 +1,6 @@
 # MS-Dhoni-Career-Statistics-Analysis-Dashboard
 
 
-# MS Dhoni Career Statistical Analysis Dashboard
-
 This Power BI project visualizes the international cricket career statistics of Mahendra Singh Dhoni, one of India's most iconic cricketers. It provides an interactive dashboard to analyze his performance across different formats and time periods.
 
 ## 📊 Project Overview
